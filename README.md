@@ -36,7 +36,7 @@ while True:
  print(s.recv(1024).decode())
  s.send("Acknowledgement Recived".encode())
 ```
-## OUPUT
+## OUTPUT
 
 ## CLIENT
 ![306664559-5e7536db-fd1a-4b3f-9358-211a771e8100](https://github.com/Jai-1801/2b_SLIDING_WINDOW_PROTOCOL/assets/139335300/ad7514a2-3d1d-44fb-9482-eeab6a501dbe)
